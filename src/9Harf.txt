@@ -1,0 +1,11 @@
+MÖNSENYOR&Hıristiyan prenslerine ve yüksek aşamalı din adamlarına verilen ünvan:
+DÜZKONTAK&Motorlu aracı anahtar kullanmadan, çalıştırma düzenindeki kabloları birbirine team ettirerek işletme:(İKİ KELİME)
+GÜLKURUSU&Mora çalan pembe:(İKİ KELİME)
+BOMBALAMA&Olabildiğince fazla su çıkartma amaçlı bir suya atlayış biçimi:
+TAMBUĞDAY&Kepek ve taneciklerin bütünüyle öğütülmesiyle elde edilen un:(İKİ KELİME)
+SAYILIGÜN&Hangi tarihta sona ereceği bilinen zaman:(İKİ KELİME)
+EŞZAMANLI&Aynı anda gerçekleşen, senkronik, anlamlarına gelen söz dizisi:(İKİ KELİME)
+PAZARLAMA&"Marketing"in yaygın kullanılan karşılığı:
+UYUZETMEK&Konuşmada karşıdaki kişiyi "sinirlendirmek":(BİRLEŞİK KELİME)
+DİKTATÖR&Bütün siyasi yetkileri kendinde toplamış bulunan kimse:
+TEKNOLOJİ&Fakültemizin adı

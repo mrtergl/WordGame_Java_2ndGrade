@@ -1,0 +1,16 @@
+EYLEM&bir durumu değiştirme veya daha ileriye götürme yönünde etkide bulunma çabası:
+MODÜL&Bir uzay taşıtının yapısı içinde yer alan ve kendi başına hareket edebilen bağımsız bölüm:
+ZANLI&Şüphe duyulan kimse:
+YANLI&Taraf tutan, objektif olmayan:
+YAPIT&Bir emek sonucu ortaya konulan ürün, eser:
+VAHİM&Ağır, korkulu, çok tehlikeli anlamlarında Arapça kökenli bir söz:
+BARUT&Ateşli silâhla bir merminin atılmasına veya herhangi bir aracın fırlatılmasına yarayan, patlayıcı, katımadde:
+BARON&Batı ülkelerinde vikont ile şövalye arasında soyluluk unvanı:
+EYVAH&Beklenmedik, kötü bir haber veya olay karşısında duyulan acınma, üzülmeyi anlatan ünlem:
+ENKAZ&Bir yıkımın geride bıraktıkları:
+YATSI&Güneşin batmasından bir buçuk, iki saat sonraki vakit:
+SEANS&Bazı tedavi yöntemlerinin uygulanması için ayrılan süre:
+ÇOBAN&Sevk ve idareden sorumlu olan küçükbaş hayvan amiri:
+
+
+
